@@ -19,7 +19,7 @@ Example:
 
 Changelog:
 
-#v0.99.0021
+v0.99.0021
 
 Added more Samsung devices.
 
@@ -28,7 +28,7 @@ Sorted DB. Minor fixes.
 Detects 26,674 mobile devices
 
 
-#v0.99.0020
+v0.99.0020
 
 
 Database for www.IMEIDB.website & IMEI Validator by www.NigelTodman.com
