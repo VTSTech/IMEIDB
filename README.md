@@ -21,7 +21,7 @@ Changelog:
 v0.99.0020
 
 
-Database for www.IMEDB.website & IMEI Validator by www.NigelTodman.com
+Database for www.IMEIDB.website & IMEI Validator by www.NigelTodman.com
 
 First Release Published to GitHub
 
