@@ -1,5 +1,6 @@
 IMEIDB - www.IMEIDB.website
 
+Database for www.IMEIDB.website & IMEI Validator by www.NigelTodman.com
 
 Format is as follows:
 
@@ -17,6 +18,13 @@ Example:
 </pre>
 
 Changelog:
+
+v0.99.0021
+
+Sorted DB. Minor fixes.
+
+Detects 26,674 mobile devices
+
 
 v0.99.0020
 
