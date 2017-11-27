@@ -15,7 +15,7 @@ Example:
 35755405,Samsung Electronics Co Ltd,Galaxy S4 Mini Blue Tick Edition (GT-I9195T),,
 35350706,Samsung Electronics Co Ltd,Galaxy S4 Value Edition (GT-i9515),,
 
-<pre>
+</pre>
 Changelog:
 
 v0.99.0020
