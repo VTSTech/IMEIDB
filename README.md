@@ -13,7 +13,7 @@ Example:
 35763105,Samsung Electronics Co Ltd,Galaxy S4 Google Edition (GT-i9505G),,
 35830706,Samsung Electronics Co Ltd,Galaxy S4 Mini (GT-i9195),,
 35744905,Samsung Electronics Co Ltd,Galaxy S4 Mini (GT-i9197),,
-35755405,Samsung Electronics Co Ltd,Galaxy S4 Mini Blue Tick Edition (GT-I9195T),,
+35755405,Samsung Electronics Co Ltd,Galaxy S4 Mini Blue Tick Edition (GT-i9195T),,
 35350706,Samsung Electronics Co Ltd,Galaxy S4 Value Edition (GT-i9515),,
 </pre>
 
