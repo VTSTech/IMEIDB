@@ -19,6 +19,17 @@ Example:
 
 Changelog:
 
+
+v0.99.0022
+
+
+Added more Samsung devices.
+
+Added some LG devices.
+
+Detects 26,700 mobile devices
+
+
 v0.99.0021
 
 Added more Samsung devices.
