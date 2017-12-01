@@ -20,6 +20,11 @@ Example:
 Changelog:
 
 
+v0.99.0023
+
+Detects 27,151 mobile devices
+
+
 v0.99.0022
 
 
