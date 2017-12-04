@@ -20,6 +20,19 @@ Example:
 Changelog:
 
 
+v0.99.0024
+
+Sorted DB
+
+Cleanup Nokia, Samsung, Huawei DB a bit
+
+Added some older Nokia, LG, NEC, Siemens, Samsung
+
+Added some newer Huawei USB modems
+
+Detects 27,447 mobile devices.
+
+
 v0.99.0023
 
 Detects 27,151 mobile devices
