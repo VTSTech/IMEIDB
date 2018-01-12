@@ -20,6 +20,17 @@ Example:
 Changelog:
 
 
+v0.99.0025
+
+Sorted DB
+
+Removed duplicates
+
+Added many Apple devices
+
+Detects 27,763 mobile devices
+
+
 v0.99.0024
 
 Sorted DB
